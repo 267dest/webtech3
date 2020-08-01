@@ -195,3 +195,9 @@ footer a:link, footer a:visited {
 	width: 148px; 
 	height: 110px;
 	}
+
+	.fav1 {
+		background: href = "/Favorite1/tgf.jpg" top left no-repeat; 
+		position: absolute; 
+		margin: 20px 20px 20px 10px; 
+		}

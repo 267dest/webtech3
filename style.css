@@ -196,3 +196,7 @@ footer a:link, footer a:visited {
 	height: 110px;
 	}
 
+
+table, th, td {
+	  border: 1px solid black;
+	}

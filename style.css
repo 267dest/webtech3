@@ -200,3 +200,20 @@ footer a:link, footer a:visited {
 table, th, td {
 	  border: 1px solid black;
 	}
+
+
+th.WTfront {
+		
+		background-image: linear-gradient(to right,rgb(108, 214, 247) 50%, rgb(252, 252, 252) 50% );  /* your gradient */
+		background-position: 100% 100%;
+}
+th.WTback {
+		background-image: linear-gradient(to left, rgb(108, 214, 247) 50%, rgb(252, 252, 252) 50%) ;  /* your gradient */
+		background-position: 100% 100%;
+}  
+
+th.IPback {
+	background-image: linear-gradient(to right, rgb(243, 109, 243) 50%, rgb(252, 252, 252) 50%) ;  /* your gradient */
+	background-position: 100% 100%;
+}  
+	  
